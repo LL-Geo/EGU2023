@@ -2,13 +2,14 @@
 ## Density, temperature and composition of Antarctica’s lithosphere and impact on geothermal heat flux and mantle viscosity
 
 
-Lu Li<sup>1</sup>, Alan Aitken<sup>1,2</sup>, Lutz Gross<sup>3</sup>, and Andrea Codd<sup>3</sup>
+Lu Li<sup>1</sup>, Alan Aitken<sup>1,2</sup>, Lutz Gross<sup>3</sup>, and Andrea Codd<sup>3</sup>    👉 [Get the slice!](./EGU_2023_LL.pdf) 
 
 <sup>1</sup>School of Earth Sciences, The University of Western Australia, Perth, Western Australia, Australia
 
 <sup>2</sup>The Australian Centre for Excellence in Antarctic Science, The University of Western Australia, Perth, Western Australia, Australia
 
 <sup>3</sup>School of Earth and Environmental Sciences, The University of Queensland, Brisbane, Queensland, Australia
+
 
 A knowledge of Antarctica’s lithospheric properties is essential for understanding tectonic history and solid-earth influences on ice sheet dynamics. For example, the spatial variation of mantle temperature impacts both geothermal heat flow and mantle viscosity, which influence the ice sheet basal melt rate and glacial isostatic adjustment. Seismic tomography models can be used to constrain the mantle temperature. However, seismic velocity to temperature conversion is sensitive to variations in mantle composition, which are linked to changes in density that are also resolved in the gravity field.
 
